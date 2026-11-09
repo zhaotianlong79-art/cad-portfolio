@@ -12,6 +12,12 @@ I’m an AI developer with four years of CAD drafting experience. I built an AI-
 
 These portfolio studies use assumed project inputs and show concept and design development work. Construction release remains on hold.
 
+## Product CAD studies
+
+| Project | Files | Scope |
+| --- | --- | --- |
+| FigNest R01 | [Project, preview and CAD downloads](./FigNest-Feeding-Bottle-R01/) | One-piece rubber teat and matching storage cap. Includes 3D STEP, editable DXF sections and a parametric model. The bottle thread awaits measured neck dimensions. |
+
 ## One-off drafting enquiries
 
 PDF-to-CAD redraws, drawing revisions, warehouse layouts and equipment plans are available at introductory fixed prices. A small, clearly scoped pilot may be available at no charge.

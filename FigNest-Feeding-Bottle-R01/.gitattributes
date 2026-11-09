@@ -1,0 +1,3 @@
+# Preserve the exact CAD export bytes.
+*.step -text -diff
+*.dxf -text -diff
